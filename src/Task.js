@@ -9,7 +9,7 @@ const Container = styled.div`
   padding: 8px;
   margin-bottom: 8px;
   border-radius: 2px;
-  background-color: ${props => (props.isDragging ? 'lightgreen' : 'white')};
+  background-color: ${props => (props.isDragging ? '#ccc' : '#FFE7F3')};
 `;
 const Handle = styled.div`
   width: 20px;
