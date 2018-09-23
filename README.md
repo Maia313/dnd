@@ -1,2 +1,2 @@
 ### React-beautiful-dnd
-#### Drag and drop
+#### Drag and drop application
