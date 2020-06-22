@@ -1,2 +1,3 @@
 ### React-beautiful-dnd
-`Drag and drop web app`
+
+> Drag and drop web app
